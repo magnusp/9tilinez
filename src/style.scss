@@ -1,0 +1,13 @@
+@use 'reset.scss';
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#raster {
+  width: 640px;
+  height: 480px;
+}
