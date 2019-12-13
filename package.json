@@ -4,7 +4,7 @@
   "description": "Time travelling!",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --open --mode development",
+    "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
   },
   "repository": {
@@ -15,13 +15,17 @@
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
+    "arraybuffer-loader": "^1.0.8",
     "babel-loader": "^8.0.6",
+    "blob-util": "^2.0.2",
     "css-loader": "^3.3.2",
     "fibers": "^3.1.0",
+    "file-loader": "^5.0.2",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
     "meyer-reset-scss": "^2.0.4",
     "node-sass": "^4.13.0",
+    "pngjs": "^3.4.0",
     "sass": "^1.3.0npm i",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.1",
