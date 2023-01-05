@@ -22,7 +22,7 @@
     "fibers": "^3.1.0",
     "file-loader": "^5.0.2",
     "html-loader": "^0.5.5",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "meyer-reset-scss": "^2.0.4",
     "node-sass": "^4.13.0",
     "pngjs": "^3.4.0",
